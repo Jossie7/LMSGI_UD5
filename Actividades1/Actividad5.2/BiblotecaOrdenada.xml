@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="BibliotecaOrdenada.xsl"?>
+<libreria>
+    <libro>
+        <titulo>Physics-based amimation</titulo>
+        <autor>Kenny Erleben</autor>
+        <editor>Charles River Media</editor>
+        <ISBN>978-1584503804</ISBN>
+        <precio>50.06</precio>
+        <numPaginas>482</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Principios de seguridad informatica para usuarios</titulo>
+        <autor>Carlos Garre</autor>
+        <editor>Dykinson</editor>
+        <ISBN>978-84-9849-998-8</ISBN>
+        <precio>13.00</precio>
+        <numPaginas>350</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Ejercicios complementarios de logica digital</titulo>
+        <autor>Alberto Sanchez</autor>
+        <editor>Dykinson</editor>
+        <ISBN>978-84-9849-703-8</ISBN>
+        <precio>12.00</precio>
+        <numPaginas>1020</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Conversacion en la Catedral</titulo>
+        <autor>Mario Vargas Llosa</autor>
+        <editor>Alfaguara</editor>
+        <ISBN>978-92-7854-703-8</ISBN>
+        <precio>08.52</precio>
+        <numPaginas>450</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Heraldos negros </titulo>
+        <autor>Cesar Vallejo</autor>
+        <editor>Coquio</editor>
+        <ISBN>978-92-7854-205-6</ISBN>
+        <precio>06.40</precio>
+        <numPaginas>300</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Divina comedia </titulo>
+        <autor>Dante Aliegheri  </autor>
+        <editor>Alfaguara</editor>
+        <ISBN>978-92-7854-458-6</ISBN>
+        <precio>10.20</precio>
+        <numPaginas>150</numPaginas>
+    </libro>
+    <libro>
+        <titulo> Trilce  </titulo>
+        <autor>Cesar Vallejo</autor>
+        <editor>Alfaguara</editor>
+        <ISBN>968-74-7854-458-6</ISBN>
+        <precio>09.58</precio>
+        <numPaginas>630</numPaginas>
+    </libro>
+</libreria>
