@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="CDs.xsl"?>
+<CDs>
+    <CD>
+        <tituloAlbum>Sorry</tituloAlbum>
+        <artista>Ariana Grande</artista>
+        <tituloCancion tiempo="05:00">Good for you</tituloCancion>
+        <selloDiscografico>Ovy on The Drums</selloDiscografico>
+        <añoPublicacion>2018</añoPublicacion>
+    </CD>
+    <CD>
+        <tituloAlbum>Traitor</tituloAlbum>
+        <artista>Olivia Rodrigo</artista>
+        <tituloCancion tiempo="02:30"> Drivers</tituloCancion>
+        <selloDiscografico>Grammys </selloDiscografico>
+        <añoPublicacion>2020</añoPublicacion>
+    </CD>
+    <CD>
+        <tituloAlbum>Mañana sera bonito</tituloAlbum>
+        <artista>Karol G</artista>
+        <tituloCancion tiempo="04:25"> Gatubela</tituloCancion>
+        <selloDiscografico>Ovy on the Drums </selloDiscografico>
+        <añoPublicacion>2022</añoPublicacion>
+    </CD>
+    <CD>
+        <tituloAlbum>Homerun</tituloAlbum>
+        <artista>Paulo Londra</artista>
+        <tituloCancion tiempo="02:45">Maldita Abusadora</tituloCancion>
+        <selloDiscografico>Ovy on the Drums </selloDiscografico>
+        <añoPublicacion>2021</añoPublicacion>
+    </CD>
+    <CD>
+        <tituloAlbum>Homerun</tituloAlbum>
+        <artista>Paulo Londra</artista>
+        <tituloCancion tiempo="02:45">Maldita Abusadora</tituloCancion>
+        <selloDiscografico>Ovy on the Drums </selloDiscografico>
+        <añoPublicacion>2021</añoPublicacion>
+    </CD>
+    <CD>
+        <tituloAlbum>Volumen 54</tituloAlbum>
+        <artista>Romeo Santos</artista>
+        <tituloCancion tiempo="03:05">La Bella y la Bestia</tituloCancion>
+        <selloDiscografico>Aventura</selloDiscografico>
+        <añoPublicacion>2016</añoPublicacion>
+    </CD>
+</CDs>

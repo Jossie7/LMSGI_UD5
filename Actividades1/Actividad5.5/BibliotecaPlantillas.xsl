@@ -26,7 +26,6 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             <td><xsl:apply-templates select ="titulo"/></td>
             <td><xsl:apply-templates select ="autor"/></td>
             <td><xsl:apply-templates select ="precio"/></td>
-            <td><xsl:apply-templates select ="numPaginas"/></td>
             <xsl:choose>
                 <xsl:when test="numPaginas &gt;150">
                     <td bgcolor="red">
