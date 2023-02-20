@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<?xml-stylesheet type="text/xsl" href="cd_p1.xsl"?>
+<?xml-stylesheet type="text/xsl" href="cd_p3.xsl"?>
 <CDs>
     <CD>
         <tituloAlbum>Sorry</tituloAlbum>
         <artista>Ariana Grande</artista>
-        <tituloCancion tiempo="800">Good for you</tituloCancion>
-        <selloDiscografico>Ovy on The Drums</selloDiscografico>
+        <tituloCancion tiempo="05:00">Good for you</tituloCancion>
+        <selloDiscografico>Ovy on the Drums</selloDiscografico>
         <anhoPublicacion>2018</anhoPublicacion>
     </CD>
     <CD>
@@ -31,7 +31,7 @@
     </CD>
     <CD>
         <tituloAlbum>Tusa</tituloAlbum>
-        <artista>Karol G </artista>
+        <artista>Karol G</artista>
         <tituloCancion tiempo="01:55">Ay Dios Mio</tituloCancion>
         <selloDiscografico>Ovy on the Drums</selloDiscografico>
         <anhoPublicacion>2022</anhoPublicacion>

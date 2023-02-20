@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<?xml-stylesheet type="text/xsl" href="cd_p1.xsl"?>
+<?xml-stylesheet type="text/xsl" href="cd_p2.xsl"?>
 <CDs>
     <CD>
         <tituloAlbum>Sorry</tituloAlbum>
         <artista>Ariana Grande</artista>
-        <tituloCancion tiempo="800">Good for you</tituloCancion>
+        <tituloCancion tiempo="05:00">Good for you</tituloCancion>
         <selloDiscografico>Ovy on The Drums</selloDiscografico>
         <anhoPublicacion>2018</anhoPublicacion>
     </CD>
@@ -19,21 +19,21 @@
         <tituloAlbum>Mañana sera bonito</tituloAlbum>
         <artista>Karol G</artista>
         <tituloCancion tiempo="04:25"> Gatubela</tituloCancion>
-        <selloDiscografico>Ovy on the Drums</selloDiscografico>
+        <selloDiscografico>Ovy on the Drums </selloDiscografico>
         <anhoPublicacion>2022</anhoPublicacion>
     </CD>
     <CD>
         <tituloAlbum>Homerun</tituloAlbum>
         <artista>Paulo Londra</artista>
         <tituloCancion tiempo="02:45">Maldita Abusadora</tituloCancion>
-        <selloDiscografico>Ovy on the Drums</selloDiscografico>
+        <selloDiscografico>Ovy on the Drums </selloDiscografico>
         <anhoPublicacion>2021</anhoPublicacion>
     </CD>
     <CD>
         <tituloAlbum>Tusa</tituloAlbum>
-        <artista>Karol G </artista>
+        <artista>Karol G</artista>
         <tituloCancion tiempo="01:55">Ay Dios Mio</tituloCancion>
-        <selloDiscografico>Ovy on the Drums</selloDiscografico>
+        <selloDiscografico>Ovy on the Drums </selloDiscografico>
         <anhoPublicacion>2022</anhoPublicacion>
     </CD>
     <CD>

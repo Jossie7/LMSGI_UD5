@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<?xml-stylesheet type="text/xsl" href="cd_p1.xsl"?>
+<?xml-stylesheet type="text/xsl" href="cd_p4.xsl"?>
 <CDs>
     <CD>
         <tituloAlbum>Sorry</tituloAlbum>
         <artista>Ariana Grande</artista>
-        <tituloCancion tiempo="800">Good for you</tituloCancion>
+        <tituloCancion tiempo="500">Good for you</tituloCancion>
+        <tituloCancion tiempo="400">Sorry</tituloCancion>
+        <tituloCancion tiempo="300">Thank u next</tituloCancion>
         <selloDiscografico>Ovy on The Drums</selloDiscografico>
         <anhoPublicacion>2018</anhoPublicacion>
     </CD>
