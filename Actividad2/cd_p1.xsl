@@ -12,12 +12,15 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                 <th>Titulo de Cancion</th>
                 <th>Sello discografico</th>
                 <th>Anho publicacion</th>
+                
         </tr>
         <xsl:for-each select="CDs/CD">
         <tr>
             <td><xsl:value-of select ="tituloAlbum"/></td>
             <td><xsl:value-of select ="artista"/></td>
-            <td><xsl:value-of select ="tituloCancion"/></td>
+            <td><xsl:for-each select ="tituloCancion">
+                <xsl:value-of select ="."/><br/>
+            </xsl:for-each></td>
             <td><xsl:value-of select ="selloDiscografico"/></td>
             <td><xsl:value-of select ="anhoPublicacion"/></td>
         </tr>

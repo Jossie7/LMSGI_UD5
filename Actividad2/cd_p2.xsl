@@ -4,17 +4,21 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template match="/">
     <html>
     <body>
-    <h1> Mi lista musical: artista Karol G</h1>
+    <h1> Mi lista musical: Karol G </h1>
         <table>
         <tr bgcolor="#897186">
                 <th>Artista</th>
                 <th>Titulo de Cancion</th>
+        
+                
         </tr>
         <xsl:for-each select="CDs/CD[artista='Karol G']">
         <tr>
             <td><xsl:value-of select ="artista"/></td>
-            <td><xsl:value-of select ="tituloCancion"/></td>
-
+            <td><xsl:for-each select ="tituloCancion">
+                <xsl:value-of select ="."/><br/>
+            </xsl:for-each></td>
+    
         </tr>
         </xsl:for-each>
     </table>

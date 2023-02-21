@@ -10,19 +10,28 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                 <th>Titulo de Album</th>
                 <th>Artista</th>
                 <th>Titulo de Cancion</th>
+                <th>Duracion</th>
                 <th>Sello discografico</th>
                 <th>Anho publicacion</th>
-                <th>tiempo </th>
+                
         </tr>
         <xsl:for-each select="CDs/CD">
         <tr>
-            <td><xsl:value-of select ="tituloAlbum"/></td>
-            <td><xsl:value-of select ="artista"/></td>
-            <td><xsl:value-of select ="tituloCancion"/></td>
-            <td><xsl:value-of select ="selloDiscografico"/></td>
-            <td><xsl:value-of select ="anhoPublicacion"/></td>
-            <td><xsl:value-of select ="tituloCancion/@tiempo"/></td>
-
+    
+            <xsl:choose>
+                <xsl:when test="tituloCancion/@tiempo &gt;200">
+                    <td bgcolor="white"><xsl:for-each select="tituloCancion/@tiempo">
+                        <xsl:value-of select="."/><br/>
+                    </xsl:for-each></td>
+                    <td><xsl:value-of select ="tituloAlbum"/></td>
+                    <td><xsl:value-of select ="artista"/></td>
+                    <td><xsl:for-each select ="tituloCancion">
+                        <xsl:value-of select ="."/><br/>
+                    </xsl:for-each></td>
+                    <td><xsl:value-of select ="selloDiscografico"/></td>
+                    <td><xsl:value-of select ="anhoPublicacion"/></td>
+                </xsl:when>
+            </xsl:choose>
         </tr>
         </xsl:for-each>
     </table>

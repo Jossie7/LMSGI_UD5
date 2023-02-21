@@ -4,72 +4,90 @@
     <CD>
         <tituloAlbum>Sorry</tituloAlbum>
         <artista>Ariana Grande</artista>
-        <tituloCancion tiempo="500">Good for you</tituloCancion>
-        <tituloCancion tiempo="400">Sorry</tituloCancion>
-        <tituloCancion tiempo="300">Thank u next</tituloCancion>
+            <tituloCancion tiempo="500">Good for you</tituloCancion>
+            <tituloCancion tiempo="400">Sorry</tituloCancion>
+            <tituloCancion tiempo="300">Thank u next</tituloCancion>
         <selloDiscografico>Ovy on The Drums</selloDiscografico>
         <anhoPublicacion>2018</anhoPublicacion>
     </CD>
     <CD>
         <tituloAlbum>Traitor</tituloAlbum>
         <artista>Olivia Rodrigo</artista>
-        <tituloCancion tiempo="02:30"> Drivers</tituloCancion>
+            <tituloCancion tiempo="500">Drivers</tituloCancion>
+            <tituloCancion tiempo="550">License</tituloCancion>
+            <tituloCancion tiempo="650">Sociopath</tituloCancion>
         <selloDiscografico>Grammys </selloDiscografico>
         <anhoPublicacion>2020</anhoPublicacion>
     </CD>
     <CD>
         <tituloAlbum>Mañana sera bonito</tituloAlbum>
         <artista>Karol G</artista>
-        <tituloCancion tiempo="04:25"> Gatubela</tituloCancion>
+        <tituloCancion tiempo="850">Gatubela</tituloCancion>
+        <tituloCancion tiempo="950">Cairo</tituloCancion>
+        <tituloCancion tiempo="632">Es un secreto</tituloCancion>
         <selloDiscografico>Ovy on the Drums</selloDiscografico>
         <anhoPublicacion>2022</anhoPublicacion>
     </CD>
     <CD>
         <tituloAlbum>Homerun</tituloAlbum>
         <artista>Paulo Londra</artista>
-        <tituloCancion tiempo="02:45">Maldita Abusadora</tituloCancion>
+        <tituloCancion tiempo="410">Maldita Abusadora</tituloCancion>
+        <tituloCancion tiempo="362">Me tiene mal</tituloCancion>
+        <tituloCancion tiempo="400">Ojos azules</tituloCancion>
         <selloDiscografico>Ovy on the Drums</selloDiscografico>
         <anhoPublicacion>2021</anhoPublicacion>
     </CD>
     <CD>
         <tituloAlbum>Tusa</tituloAlbum>
         <artista>Karol G </artista>
-        <tituloCancion tiempo="01:55">Ay Dios Mio</tituloCancion>
+        <tituloCancion tiempo="485">Ay Dios Mio</tituloCancion>
+        <tituloCancion tiempo="365">Location</tituloCancion>
+        <tituloCancion tiempo="306">Mayores</tituloCancion>
         <selloDiscografico>Ovy on the Drums</selloDiscografico>
         <anhoPublicacion>2022</anhoPublicacion>
     </CD>
     <CD>
         <tituloAlbum>Volumen 54</tituloAlbum>
         <artista>Romeo Santos</artista>
-        <tituloCancion tiempo="03:05">La Bella y la Bestia</tituloCancion>
+        <tituloCancion tiempo="450">La Bella y la Bestia</tituloCancion>
+        <tituloCancion tiempo="3502">Ella y yo</tituloCancion>
+        <tituloCancion tiempo="408">La boda</tituloCancion>
         <selloDiscografico>Aventura</selloDiscografico>
         <anhoPublicacion>2016</anhoPublicacion>
     </CD>
     <CD>
         <tituloAlbum>Felicidad</tituloAlbum>
         <artista> Mike Bahia</artista>
-        <tituloCancion tiempo="02:25">Amantes</tituloCancion>
+        <tituloCancion tiempo="251">Amantes</tituloCancion>
+        <tituloCancion tiempo="158">Buscandote</tituloCancion>
+        <tituloCancion tiempo="874">Sonrisa</tituloCancion>
         <selloDiscografico>Discor</selloDiscografico>
         <anhoPublicacion>2018</anhoPublicacion>
     </CD>
     <CD>
         <tituloAlbum>Catalana</tituloAlbum>
         <artista>Jose Jose</artista>
-        <tituloCancion tiempo="04:05">Flor de Loto</tituloCancion>
+        <tituloCancion tiempo="958">Flor de Loto</tituloCancion>
+        <tituloCancion tiempo="784">Amor amor</tituloCancion>
+        <tituloCancion tiempo="145">Perdon</tituloCancion>
         <selloDiscografico>Romantica</selloDiscografico>
         <anhoPublicacion>2005</anhoPublicacion>
     </CD>
     <CD>
         <tituloAlbum>Al partir</tituloAlbum>
         <artista>Julio Perales</artista>
-        <tituloCancion tiempo="03:30">Un beso y una flor</tituloCancion>
+        <tituloCancion tiempo="840">Un beso y una flor</tituloCancion>
+        <tituloCancion tiempo="630">Y se marcho</tituloCancion>
         <selloDiscografico>Romantica</selloDiscografico>
         <anhoPublicacion>1998</anhoPublicacion>
     </CD>
     <CD>
         <tituloAlbum>Volumen 55</tituloAlbum>
         <artista>Arcangel</artista>
-        <tituloCancion tiempo="02:55">Camuflaje</tituloCancion>
+        <tituloCancion tiempo="547">Camuflaje</tituloCancion>
+        <tituloCancion tiempo="485">Susana</tituloCancion>
+        <tituloCancion tiempo="251">Ella me dijo</tituloCancion>
+        <tituloCancion tiempo="985">Perdoname</tituloCancion>
         <selloDiscografico>Formula</selloDiscografico>
         <anhoPublicacion>2012</anhoPublicacion>
     </CD>
