@@ -9,6 +9,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         <tr bgcolor="#897186">
                 <th>Artista</th>
                 <th>Titulo de Cancion</th>
+                <th>Duracion</th>
         
                 
         </tr>
@@ -18,7 +19,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             <td><xsl:for-each select ="tituloCancion">
                 <xsl:value-of select ="."/><br/>
             </xsl:for-each></td>
-    
+            <td><xsl:for-each select ="tituloCancion/@tiempo">
+                <xsl:value-of select ="."/><br/>
+            </xsl:for-each></td>
         </tr>
         </xsl:for-each>
     </table>

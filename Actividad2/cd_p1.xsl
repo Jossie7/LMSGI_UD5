@@ -10,6 +10,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                 <th>Titulo de Album</th>
                 <th>Artista</th>
                 <th>Titulo de Cancion</th>
+                <th>Duracion</th>
                 <th>Sello discografico</th>
                 <th>Anho publicacion</th>
                 
@@ -19,6 +20,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             <td><xsl:value-of select ="tituloAlbum"/></td>
             <td><xsl:value-of select ="artista"/></td>
             <td><xsl:for-each select ="tituloCancion">
+                <xsl:value-of select ="."/><br/>
+            </xsl:for-each></td>
+            <td><xsl:for-each select ="tituloCancion/@tiempo">
                 <xsl:value-of select ="."/><br/>
             </xsl:for-each></td>
             <td><xsl:value-of select ="selloDiscografico"/></td>
